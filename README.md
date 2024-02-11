@@ -10,7 +10,7 @@ This repository contains the code for a simple user registration form created us
 - Provides options for social media account creation.
 
 ## Preview
-![Registration Form Preview](/path/to/screenshot.png)
+![Registration Form Preview](https://github.com/Bindu-1/Registration-Form/blob/main/Screenshot%202024-02-11%20124514.png?raw=true)
 
 ## Live Preview
 [Live Preview](https://bindu-1.github.io/Registration-Form/)
